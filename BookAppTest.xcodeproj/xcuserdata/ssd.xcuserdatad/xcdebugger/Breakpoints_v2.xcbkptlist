@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3234C8D4-26C5-4386-A4AA-D79F5E0AD2E0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EE89F882-FE98-46E9-9EDC-48DBFFED39DE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookAppTest/Source/Swinject/Interfaces/AnyCoordinatorResolverOwner.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "mainCoordinator()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1E7C1E8D-C8A0-4CEC-9A76-33FDB5B4CDB6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookAppTest/Resources/SceneDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "scene(_:willConnectTo:options:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1E7C1E8D-C8A0-4CEC-9A76-33FDB5B4CDB6 - b9b00c294ea3b9d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookAppTest.SceneDelegate.scene(_: __C.UIScene, openURLContexts: Swift.Set&lt;__C.UIOpenURLContext&gt;) -&gt; ()"
+                  moduleName = "BookAppTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/BookAppTest/BookAppTest/BookAppTest/Resources/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "195">
+               </Location>
+               <Location
+                  uuid = "1E7C1E8D-C8A0-4CEC-9A76-33FDB5B4CDB6 - 1929b92eb09a8e04"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookAppTest.SceneDelegate.scene(_: __C.UIScene, willConnectTo: __C.UISceneSession, options: __C.UISceneConnectionOptions) -&gt; ()"
+                  moduleName = "BookAppTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/BookAppTest/BookAppTest/BookAppTest/Resources/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "61">
+               </Location>
+               <Location
+                  uuid = "1E7C1E8D-C8A0-4CEC-9A76-33FDB5B4CDB6 - 1929b92eb09a8e27"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookAppTest.SceneDelegate.scene(_: __C.UIScene, willConnectTo: __C.UISceneSession, options: __C.UISceneConnectionOptions) -&gt; ()"
+                  moduleName = "BookAppTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/BookAppTest/BookAppTest/BookAppTest/Resources/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "61">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2FCEF0C3-6C65-44FD-9116-0521055F2B18"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookAppTest/Source/Services/FirebaseService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "fetchBooks()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CC08ECD8-BE0E-40F1-A277-1B6593D395AF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookAppTest/Source/Services/FirebaseService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "fetchBooks()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "995D13E0-8C83-4026-97B4-9604E2D80690"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookAppTest/Source/Services/FirebaseService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "fetchBooks()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A945E3A0-4974-4093-A36E-A043796C2746"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookAppTest/Utils/BasicInterfaces/AnyModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "init(data:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "434D2E55-0E4B-4AA9-B0E5-A0F3C0FE789E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookAppTest/Utils/BasicInterfaces/AnyModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "init(data:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2B3F386C-5026-4FE4-89C1-96E46F3A6DCE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookAppTest/Utils/BasicInterfaces/AnyModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "init(data:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4A374E7B-7F6F-4129-96C7-0FFC5216DA0B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookAppTest/UICore/Extensions/NSCollectionLayoutSectionExtensions.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "group"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F76CFC0F-F1A9-44BF-9F0A-D07A7C7C5ED3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookAppTest/Source/Screens/MainScreen/MainScreenViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "timer"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "23A8CEAA-6ECE-42C1-AABC-C26960E2B161"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookAppTest/Source/Screens/MainScreen/MainScreenViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "setupInput()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "873CD58F-1448-44EF-9EDE-CFD22E63E2CC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookAppTest/Source/Screens/MainScreen/DataSource/MainDataSource.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "304"
+            endingLineNumber = "304"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "873CD58F-1448-44EF-9EDE-CFD22E63E2CC - b4d50ae632fc3b59"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookAppTest.MainDataSource.Input.init(onUpdateItems: BookAppTest.MainThreadExecutable&lt;BookAppTest.RootModel&gt;, onScrollBanner: BookAppTest.MainVoidThreadExecutable) -&gt; BookAppTest.MainDataSource.Input"
+                  moduleName = "BookAppTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/BookAppTest/BookAppTest/BookAppTest/Source/Screens/MainScreen/DataSource/MainDataSource.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "873CD58F-1448-44EF-9EDE-CFD22E63E2CC - a9eb07ebb5ec41a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookAppTest.MainDataSource.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "BookAppTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/BookAppTest/BookAppTest/BookAppTest/Source/Screens/MainScreen/DataSource/MainDataSource.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "304"
+                  endingLineNumber = "304"
+                  offsetFromSymbolStart = "1324">
+               </Location>
+               <Location
+                  uuid = "873CD58F-1448-44EF-9EDE-CFD22E63E2CC - a9eb07ebb5ec41ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookAppTest.MainDataSource.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "BookAppTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/BookAppTest/BookAppTest/BookAppTest/Source/Screens/MainScreen/DataSource/MainDataSource.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "302"
+                  endingLineNumber = "302"
+                  offsetFromSymbolStart = "1423">
+               </Location>
+               <Location
+                  uuid = "873CD58F-1448-44EF-9EDE-CFD22E63E2CC - a9eb07ebb5ec41a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookAppTest.MainDataSource.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "BookAppTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/BookAppTest/BookAppTest/BookAppTest/Source/Screens/MainScreen/DataSource/MainDataSource.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "304"
+                  endingLineNumber = "304"
+                  offsetFromSymbolStart = "1423">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B21B4D9D-C72A-4D05-B0A2-DD2516A98938"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookAppTest/Source/Screens/DetailsScreen/DetailsScreenViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D1D3A0E0-B9AA-4E8D-9864-956772CAF0B8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookAppTest/Source/Screens/DetailsScreen/DetailsScreenViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "init(dependencies:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D1D3A0E0-B9AA-4E8D-9864-956772CAF0B8 - 8e91e992d3560717"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookAppTest.DetailsScreenViewModel.init(dependencies: (BookAppTest.AnyDetailsScreenCoordinator, BookAppTest.RootModel, Swift.Int)) -&gt; BookAppTest.DetailsScreenViewModel"
+                  moduleName = "BookAppTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/BookAppTest/BookAppTest/BookAppTest/Source/Screens/DetailsScreen/DetailsScreenViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "352">
+               </Location>
+               <Location
+                  uuid = "D1D3A0E0-B9AA-4E8D-9864-956772CAF0B8 - 8e91e992d3560759"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookAppTest.DetailsScreenViewModel.init(dependencies: (BookAppTest.AnyDetailsScreenCoordinator, BookAppTest.RootModel, Swift.Int)) -&gt; BookAppTest.DetailsScreenViewModel"
+                  moduleName = "BookAppTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/BookAppTest/BookAppTest/BookAppTest/Source/Screens/DetailsScreen/DetailsScreenViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "399">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1DA889D0-53A6-447A-B885-C4DE2F51C3D1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookAppTest/Source/Screens/DetailsScreen/DetailsScreenViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "setupInput()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1DA889D0-53A6-447A-B885-C4DE2F51C3D1 - 68963465f1fada26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookAppTest.DetailsScreenViewModel.setupInput() -&gt; ()"
+                  moduleName = "BookAppTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/BookAppTest/BookAppTest/BookAppTest/Source/Screens/DetailsScreen/DetailsScreenViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "95">
+               </Location>
+               <Location
+                  uuid = "1DA889D0-53A6-447A-B885-C4DE2F51C3D1 - 68963465f1fadae4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookAppTest.DetailsScreenViewModel.setupInput() -&gt; ()"
+                  moduleName = "BookAppTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/BookAppTest/BookAppTest/BookAppTest/Source/Screens/DetailsScreen/DetailsScreenViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "95">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "56BDDD99-069C-4FC3-ADBC-D016F05E5F70"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookAppTest/Source/Screens/DetailsScreen/DetailsScreenViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "setupInput()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4F48F27A-AB5E-4B30-A243-8A7820AD8B3A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookAppTest/Source/Screens/DetailsScreen/DetailsScreenViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "handleCurrentBookChanging(currentIndex:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "73D55143-762E-4700-990D-FA6B10FF0813"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookAppTest/Source/Screens/DetailsScreen/DetailsScreenViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "handleCurrentBookChanging(currentIndex:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "73D55143-762E-4700-990D-FA6B10FF0813 - 6ff3e36ce69b742f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookAppTest.DetailsScreenViewModel.handleCurrentBookChanging(currentIndex: Swift.Int) -&gt; ()"
+                  moduleName = "BookAppTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/BookAppTest/BookAppTest/BookAppTest/Source/Screens/DetailsScreen/DetailsScreenViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "1034">
+               </Location>
+               <Location
+                  uuid = "73D55143-762E-4700-990D-FA6B10FF0813 - 6ff3e36ce69b742f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookAppTest.DetailsScreenViewModel.handleCurrentBookChanging(currentIndex: Swift.Int) -&gt; ()"
+                  moduleName = "BookAppTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssd/Work/BookAppTest/BookAppTest/BookAppTest/Source/Screens/DetailsScreen/DetailsScreenViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "1076">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0DFB4910-1071-4F79-AAA5-A193CFC12302"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookAppTest/Source/Screens/DetailsScreen/DataSource/CasourselDataSource.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "124"
+            endingLineNumber = "124"
+            landmarkName = "scrollViewDidEndDecelerating(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C3B56D19-801D-41BD-AE59-B5CD253D98EF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookAppTest/Source/Screens/DetailsScreen/DetailsScreenViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "setupCarouselDataSourceOutput()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

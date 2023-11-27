@@ -1,0 +1,30 @@
+/* 
+  Localizable.strings
+  BookAppTest
+
+  Created by oleksiy humenyuk on 20.11.2023.
+  
+*/
+
+//MARK: - Splash
+
+"splash.title" = "Book App";
+"splash.subtitle" = "Welcome to Book App";
+
+//MARK: - Main
+
+"main.library.text" = "Library";
+"main.romance.text" = "Romance";
+"main.scince.text" = "Scince";
+"main.fantasy.text" = "Fantasy";
+
+//MARK: - Details
+
+"details.readers.text" = "Readers";
+"details.likes.text" = "Likes";
+"details.quotes.text" = "Quotes";
+"details.genre.text" = "Genre";
+
+"details.summary.text" = "Summary";
+"details.alsoLike.text" = "You will also like";
+"details.readNow.button.text" = "Read Now";
