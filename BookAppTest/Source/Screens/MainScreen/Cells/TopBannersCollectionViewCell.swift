@@ -43,6 +43,7 @@ final class TopBannersCollectionViewCell: BaseInteractiveCollectionViewCell, Reu
             $0.top.leading.trailing.bottom.equalToSuperview()
         }
     }
+    
     // MARK: - Configure Methods
     func configureCell(_ data: CellData) {
         self.bannerImage.kf.setImage(

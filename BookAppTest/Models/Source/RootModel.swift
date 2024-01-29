@@ -19,9 +19,7 @@ struct RootModel: AnyModel {
         case youWillLikeSection = "you_will_like_section"
     }
     
-    
-    init(
-    ) {
+    init() {
         books = []
         topBannerSlides = []
         youWillLikeSection = []

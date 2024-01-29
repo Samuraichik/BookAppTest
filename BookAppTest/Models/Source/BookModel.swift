@@ -8,6 +8,7 @@
 import Foundation
 
 // MARK: - Book Model
+
 struct Book: AnyModel, Identifiable, Hashable {
     let id: Int
     let name: String

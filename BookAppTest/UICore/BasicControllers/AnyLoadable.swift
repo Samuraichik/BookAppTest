@@ -14,13 +14,11 @@ public protocol AnyLoadable {
 
 public extension AnyLoadable where Self: UIViewController {
     func showLoader(_ completion: (() -> Void)? = nil) {
-//        navigationController?.navigationBar.isHidden = true
         view.showLoaderView()
         completion?()
     }
     
     func hideLoader(_ completion: (() -> Void)? = nil) {
-//        self.navigationController?.navigationBar.isHidden = false
         self.view.hideLoaderView()
         completion?()
     }

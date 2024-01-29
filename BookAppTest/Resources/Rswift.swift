@@ -8,8 +8,8 @@
 import Foundation
 
 struct Rswift  {
-    public static var font = R.font
-    public static var strings = R.string.localizable
-    public static var colors = R.color
-    public static var images = R.image
+    static var font = R.font
+    static var strings = R.string.localizable
+    static var colors = R.color
+    static var images = R.image
 }

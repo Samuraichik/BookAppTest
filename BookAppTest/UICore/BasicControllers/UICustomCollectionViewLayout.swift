@@ -44,8 +44,6 @@ final class UICustomCollectionViewLayout: UICollectionViewLayout {
     override func prepare() {
         if let cv = collectionView {
             let collectionViewHeight = cv.frame.height
-            let totalNumberOfItems = sectionWidths.reduce(0, +)
-
             
             let numberOfSections = cv.numberOfSections
             self.contentSize = cv.frame.size

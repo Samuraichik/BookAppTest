@@ -8,7 +8,7 @@
 import Foundation
 import UIKit
 
-public extension UICollectionView {
+extension UICollectionView {
     @discardableResult
     final func register<T: UICollectionViewCell>(cellType: T.Type) -> Self where T: Reusable {
         register(cellType.self, forCellWithReuseIdentifier: cellType.reuseIdentifier)

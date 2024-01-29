@@ -146,7 +146,9 @@ private extension InfiniteProgressBar {
                             width: bounds.width * 0.3,
                             height: bounds.size.height
                         )
-                    })
-            })
+                    }
+                )
+            }
+        )
     }
 }

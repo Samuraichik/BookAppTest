@@ -18,7 +18,6 @@ extension Resolver {
 
     var screenResolverOwner: AnyScreenResolverOwner { resolverOwner }
     var coordinatorResolverOwner: AnyCoordinatorResolverOwner { resolverOwner }
-    var servicesResolverOwner: AnyServiceResolverOwner { resolverOwner }
     var systemResolverOwner: AnySystemResolverOwner { resolverOwner }
     
 }

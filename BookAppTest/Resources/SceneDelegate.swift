@@ -41,10 +41,4 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         let coordinator = resolver.coordinatorResolverOwner.mainCoordinator()
         coordinator.start()
     }
-    
-    func scene(_ scene: UIScene, openURLContexts URLContexts: Set<UIOpenURLContext>) {
-        guard let url = URLContexts.first?.url else {
-            return
-        }
-    }
 }

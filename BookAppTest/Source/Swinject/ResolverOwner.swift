@@ -7,11 +7,11 @@
 
 import Swinject
 
-final class ResolverOwner: AnyServiceResolverOwner,
-                           AnyScreenResolverOwner,
+final class ResolverOwner: AnyScreenResolverOwner,
                            AnyCoordinatorResolverOwner,
                            AnySystemResolverOwner,
                            InjectableViaInit {
+    
     typealias Dependencies = Resolver
     
     let resolver: Resolver
