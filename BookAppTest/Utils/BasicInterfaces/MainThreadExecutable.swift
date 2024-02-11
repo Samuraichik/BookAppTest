@@ -19,7 +19,6 @@ public struct MainThreadExecutable<T> {
                 }
             }
         }
-
         set {
             action = newValue
         }
@@ -42,7 +41,6 @@ public struct MainVoidThreadExecutable {
                 }
             }
         }
-
         set {
             action = newValue
         }
